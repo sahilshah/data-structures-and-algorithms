@@ -1,0 +1,4 @@
+1 10Oranges 5Apples  6Bananas
+2 3Kiwi 5Mangoes 18Pineapples
+3 45Plums 452Grapes 1Pear
+

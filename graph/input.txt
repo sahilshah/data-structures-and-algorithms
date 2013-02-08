@@ -1,0 +1,17 @@
+r3 g5
+g5 y2
+g8 g5
+g8 r10
+g5 r10
+g8 y2
+g4 b11
+r3 r10
+g5 g4
+r10 r14
+y2 g8
+g8 y13
+b2 g4
+b11 r10
+g4 y13
+y13 r3
+r14 r3
